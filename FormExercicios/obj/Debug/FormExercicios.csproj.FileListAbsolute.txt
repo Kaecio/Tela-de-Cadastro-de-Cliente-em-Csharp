@@ -1,0 +1,11 @@
+C:\Users\Kaecio\source\repos\FormExercicios\FormExercicios\bin\Debug\FormExercicios.exe.config
+C:\Users\Kaecio\source\repos\FormExercicios\FormExercicios\bin\Debug\FormExercicios.exe
+C:\Users\Kaecio\source\repos\FormExercicios\FormExercicios\bin\Debug\FormExercicios.pdb
+C:\Users\Kaecio\source\repos\FormExercicios\FormExercicios\obj\Debug\FormExercicios.csprojAssemblyReference.cache
+C:\Users\Kaecio\source\repos\FormExercicios\FormExercicios\obj\Debug\FormExercicios.Properties.Resources.resources
+C:\Users\Kaecio\source\repos\FormExercicios\FormExercicios\obj\Debug\FormExercicios.csproj.GenerateResource.cache
+C:\Users\Kaecio\source\repos\FormExercicios\FormExercicios\obj\Debug\FormExercicios.csproj.CoreCompileInputs.cache
+C:\Users\Kaecio\source\repos\FormExercicios\FormExercicios\obj\Debug\FormExercicios.exe
+C:\Users\Kaecio\source\repos\FormExercicios\FormExercicios\obj\Debug\FormExercicios.pdb
+C:\Users\Kaecio\source\repos\FormExercicios\FormExercicios\obj\Debug\FormExercicios.Login.resources
+C:\Users\Kaecio\source\repos\FormExercicios\FormExercicios\obj\Debug\FormExercicios.TelaPrincipal.resources
