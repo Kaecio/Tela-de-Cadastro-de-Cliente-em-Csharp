@@ -222,7 +222,6 @@ namespace FormExercicios
                 cboEstado.Items.Add(estado);
             }
 
-            
         }
 
         private void cbxEstado_SelectedIndexChanged(object sender, EventArgs e)
