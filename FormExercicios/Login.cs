@@ -20,7 +20,7 @@ namespace FormExercicios
             InitializeComponent();
         }
 
-        private void btnIncluir_Click(object sender, EventArgs e)
+        private void btnIncluir_Click_1(object sender, EventArgs e)
         {
             string caixaNome = txtNome.Text;
             string caixaSenha = txtSenha.Text;
@@ -58,5 +58,14 @@ namespace FormExercicios
         {
 
         }
+
+        private void guna2HtmlLabel2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtNome_TabStopChanged(object sender, EventArgs e)
+        {
+            txtNome.Text = string.Empty;        }
     }
 }

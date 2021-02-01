@@ -9,3 +9,16 @@ C:\Users\Kaecio\source\repos\FormExercicios\FormExercicios\obj\Debug\FormExercic
 C:\Users\Kaecio\source\repos\FormExercicios\FormExercicios\obj\Debug\FormExercicios.pdb
 C:\Users\Kaecio\source\repos\FormExercicios\FormExercicios\obj\Debug\FormExercicios.Login.resources
 C:\Users\Kaecio\source\repos\FormExercicios\FormExercicios\obj\Debug\FormExercicios.TelaPrincipal.resources
+C:\Users\kaeci\source\repos\Tela-de-Cadastro-de-Cliente-em-Csharp\FormExercicios\bin\Debug\FormExercicios.exe.config
+C:\Users\kaeci\source\repos\Tela-de-Cadastro-de-Cliente-em-Csharp\FormExercicios\bin\Debug\FormExercicios.exe
+C:\Users\kaeci\source\repos\Tela-de-Cadastro-de-Cliente-em-Csharp\FormExercicios\bin\Debug\FormExercicios.pdb
+C:\Users\kaeci\source\repos\Tela-de-Cadastro-de-Cliente-em-Csharp\FormExercicios\bin\Debug\Guna.UI2.dll
+C:\Users\kaeci\source\repos\Tela-de-Cadastro-de-Cliente-em-Csharp\FormExercicios\obj\Debug\FormExercicios.csprojAssemblyReference.cache
+C:\Users\kaeci\source\repos\Tela-de-Cadastro-de-Cliente-em-Csharp\FormExercicios\obj\Debug\FormExercicios.Login.resources
+C:\Users\kaeci\source\repos\Tela-de-Cadastro-de-Cliente-em-Csharp\FormExercicios\obj\Debug\FormExercicios.Properties.Resources.resources
+C:\Users\kaeci\source\repos\Tela-de-Cadastro-de-Cliente-em-Csharp\FormExercicios\obj\Debug\FormExercicios.TelaPrincipal.resources
+C:\Users\kaeci\source\repos\Tela-de-Cadastro-de-Cliente-em-Csharp\FormExercicios\obj\Debug\FormExercicios.csproj.GenerateResource.cache
+C:\Users\kaeci\source\repos\Tela-de-Cadastro-de-Cliente-em-Csharp\FormExercicios\obj\Debug\FormExercicios.csproj.CoreCompileInputs.cache
+C:\Users\kaeci\source\repos\Tela-de-Cadastro-de-Cliente-em-Csharp\FormExercicios\obj\Debug\FormExercicios.csproj.CopyComplete
+C:\Users\kaeci\source\repos\Tela-de-Cadastro-de-Cliente-em-Csharp\FormExercicios\obj\Debug\FormExercicios.exe
+C:\Users\kaeci\source\repos\Tela-de-Cadastro-de-Cliente-em-Csharp\FormExercicios\obj\Debug\FormExercicios.pdb
